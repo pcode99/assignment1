@@ -54,3 +54,35 @@ header h1{
     text-align: center;
     
 }
+
+
+/*start main saction design*/
+.see-it{
+    display: flex;
+    justify-content: space-between;
+    width: 1440px;
+    height: 328px;
+    align-items: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 110px;
+   margin-bottom: 116px;
+   font-family: raleway;
+   padding: 50px;
+   
+}
+.see-it img{
+    border-radius: 20px;
+    
+}
+.see-it h1{
+    font-size: 42px;
+    font-weight: bold;
+    color:#030304;
+    font-family: raleway;
+}
+.see-it p{
+    color: #252432;
+    font-size: 24px;
+    font-weight: 300;
+}
