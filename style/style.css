@@ -220,6 +220,8 @@ header h1{
     justify-content: space-around;
     font-family: raleway;
     text-align: start;
+    margin-top: 10px;
+    padding: 20px;
     
 }
 .input-area h1{
@@ -237,3 +239,32 @@ header h1{
 
 }
 
+footer{
+    text-align: center;
+
+}
+   
+footer h1{
+    font-size: 100px;
+    font-family: raleway;
+    color: #4E47FF;
+    font-weight: bold;
+}
+.list-menu a{
+    text-decoration: none;
+    font-family: raleway;
+    list-style: none;
+    font-size: 30px;
+    margin-left: 20px;
+    
+}
+.list-menu ul{
+    display: flex;
+    list-style: none;
+
+    font-size: 30;
+    font-family: raleway;
+    color: #7b7b7b;
+    font-weight: normal;
+
+}
