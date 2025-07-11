@@ -86,3 +86,104 @@ header h1{
     font-size: 24px;
     font-weight: 300;
 }
+
+/*Joined Thousands of Productive Users start */
+
+.joiend{
+    width: 1440px;
+    height: 328px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 110px;
+   margin-bottom: 116px;
+   font-family: raleway;
+   padding: 150px 42px;
+   background-color: #afabe74b;
+   border-radius: 20px;
+
+
+}
+.joiend h1{
+    width: 100%;
+    font-weight: 800;
+    text-align: center;
+    font-size: 65px;
+    font-family: raleway;
+    color: #252432;
+
+}
+.items{
+    display: flex;
+    justify-content: space-around;
+}
+.item h1{
+    font-size: 80px;
+    color: #4E47FF;
+    font-family: sans-serif;
+    font-weight: 800;
+
+}
+.item p{
+    font-family: raleway;
+    font-size: 20px;
+    color: #000000;
+}
+
+/*strat what our user say */
+
+.what-our-user-say{
+    font-family: raleway;
+    font-size: 42px;
+    text-align: center;
+    font-weight: bold;
+}
+
+/*image items add*/
+.items2{
+    display: flex;
+    justify-content: space-around;
+
+}
+.item2{
+    width: 366px;
+    height: 243;
+    background-color: #dfdfdf;
+    padding: 24px;
+    border-radius: 10px;
+}
+
+.checked {
+  color: orange;
+
+}
+.item2 span{
+    size: 15px;
+    font-size: 20px;
+}
+
+.item2 h1{
+    font-size: 40px;
+}
+.item2 p{
+    font-size: 15px;
+    font-weight: normal;
+}
+
+.item-under{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 15px;
+}
+.item-under img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.item-under-text{
+    margin-left: 10px;
+}
+.item-under-text p{
+    margin-top: -50px;
+}
