@@ -172,8 +172,6 @@ header h1{
 .item-under{
     display: flex;
     align-items: center;
-    justify-content: center;
-    text-align: center;
     padding: 15px;
 }
 .item-under img{
@@ -187,3 +185,55 @@ header h1{
 .item-under-text p{
     margin-top: -50px;
 }
+/*start ready to */
+
+.ready-focace{
+    background-color: #dedede;
+    width: 1440px;
+    height: 696px;
+    text-align: center;
+    font-family: raleway;
+    border-radius: 20px;
+    padding: 72px 150px;
+    margin-top: 70px;
+
+    
+}
+.ready-focace h1{
+    font-size: 50px;
+    font-weight: 600;
+}
+.ready-focace p{
+
+}
+.wc-big-img{
+    border-radius: 50px;
+    margin-top: 20px;
+
+}
+
+/*input area start*/
+
+.input-area{
+    text-align: start;
+    display: flex;
+    justify-content: space-around;
+    font-family: raleway;
+    text-align: start;
+    
+}
+.input-area h1{
+    font-size: 97px;
+    font-weight: bold;
+    width: 50%;
+}
+.input-part input{
+    padding: 32px 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    background-color: #b9b8c5;
+    width: 200px;
+  
+
+}
+
